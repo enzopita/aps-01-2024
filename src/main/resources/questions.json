@@ -1,0 +1,508 @@
+[
+  {
+    "text": "Qual é um dos principais problemas ambientais enfrentados em metrópoles?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Poluição do ar", "is_correct": true},
+      {"number": 2, "text": "Desmatamento de florestas", "is_correct": false},
+      {"number": 3, "text": "Acidificação dos oceanos", "is_correct": false},
+      {"number": 4, "text": "Erosão do solo", "is_correct": false}
+    ]
+  },
+  {
+    "text": "O que pode ser feito para reduzir a poluição do ar em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Promover o uso de transportes públicos", "is_correct": true},
+      {"number": 2, "text": "Aumentar o desmatamento", "is_correct": false},
+      {"number": 3, "text": "Descartar lixo nas ruas", "is_correct": false},
+      {"number": 4, "text": "Queimar mais combustíveis fósseis", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é a importância das áreas verdes dentro de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Melhorar a qualidade do ar e proporcionar lazer", "is_correct": true},
+      {"number": 2, "text": "Aumentar a poluição do solo", "is_correct": false},
+      {"number": 3, "text": "Reduzir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Aumentar a temperatura da cidade", "is_correct": false}
+    ]
+  },
+  {
+    "text": "O que pode ser feito para reduzir o desperdício de água em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Promover o uso consciente e a reutilização da água", "is_correct": true},
+      {"number": 2, "text": "Aumentar o consumo de água", "is_correct": false},
+      {"number": 3, "text": "Despejar resíduos químicos nos rios", "is_correct": false},
+      {"number": 4, "text": "Ignorar vazamentos em encanamentos", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que a poluição sonora é prejudicial em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Pode causar estresse e afetar a saúde mental das pessoas", "is_correct": true},
+      {"number": 2, "text": "Aumenta a produtividade e a concentração", "is_correct": false},
+      {"number": 3, "text": "Contribui para a preservação da biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Diminui o tráfego de veículos", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é a importância de políticas de reciclagem em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Reduzir a quantidade de resíduos enviados para aterros sanitários", "is_correct": true},
+      {"number": 2, "text": "Aumentar a poluição do ar", "is_correct": false},
+      {"number": 3, "text": "Desperdiçar recursos naturais", "is_correct": false},
+      {"number": 4, "text": "Aumentar os custos de produção", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o papel dos cidadãos na preservação do meio ambiente em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Adotar práticas sustentáveis e participar de iniciativas de conservação", "is_correct": true},
+      {"number": 2, "text": "Ignorar a coleta seletiva de resíduos", "is_correct": false},
+      {"number": 3, "text": "Desperdiçar recursos naturais", "is_correct": false},
+      {"number": 4, "text": "Aumentar a poluição do ar", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto do desmatamento urbano na qualidade de vida dos habitantes?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Redução da qualidade do ar, aumento das temperaturas e diminuição da biodiversidade", "is_correct": true},
+      {"number": 2, "text": "Melhoria da qualidade do ar e aumento da biodiversidade", "is_correct": false},
+      {"number": 3, "text": "Aumento das áreas verdes e redução da poluição sonora", "is_correct": false},
+      {"number": 4, "text": "Aumento da poluição do solo e da água", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que a gestão adequada dos resíduos sólidos é importante em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para evitar a poluição do solo, da água e do ar, além de atrair pragas urbanas", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a produção de lixo e a demanda por aterros sanitários", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Para incentivar a prática do descarte irregular de resíduos", "is_correct": false}
+    ]
+  },
+  {
+    "text": "O que pode ser feito para combater a poluição da água em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Investir em tratamento de esgoto e evitar o descarte irregular de resíduos", "is_correct": true},
+      {"number": 2, "text": "Aumentar o despejo de resíduos químicos nos rios", "is_correct": false},
+      {"number": 3, "text": "Reduzir o consumo de água", "is_correct": false},
+      {"number": 4, "text": "Ignorar a presença de lixo nas margens dos rios", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da poluição do ar na saúde das pessoas que vivem em metrópoles?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Pode causar doenças respiratórias e cardiovasculares", "is_correct": true},
+      {"number": 2, "text": "Contribui para a melhoria da qualidade do ar", "is_correct": false},
+      {"number": 3, "text": "Reduz o risco de problemas de saúde", "is_correct": false},
+      {"number": 4, "text": "Aumenta a expectativa de vida", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é uma maneira eficaz de reduzir o desperdício de energia em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Promover o uso de fontes de energia renováveis", "is_correct": true},
+      {"number": 2, "text": "Aumentar o consumo de energia elétrica", "is_correct": false},
+      {"number": 3, "text": "Ignorar o uso de lâmpadas econômicas", "is_correct": false},
+      {"number": 4, "text": "Desperdiçar recursos naturais", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é a importância da educação ambiental nas escolas de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para conscientizar e capacitar os alunos a adotarem práticas sustentáveis", "is_correct": true},
+      {"number": 2, "text": "Para aumentar o consumo irresponsável de recursos naturais", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Para incentivar o descarte irregular de resíduos", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante plantar árvores em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para melhorar a qualidade do ar e proporcionar sombra", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a poluição do solo", "is_correct": false},
+      {"number": 3, "text": "Para diminuir a quantidade de áreas verdes", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a temperatura da cidade", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o papel das empresas na preservação do meio ambiente em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Adotar práticas sustentáveis e reduzir o impacto ambiental de suas operações", "is_correct": true},
+      {"number": 2, "text": "Aumentar a produção de resíduos e poluentes", "is_correct": false},
+      {"number": 3, "text": "Ignorar a legislação ambiental", "is_correct": false},
+      {"number": 4, "text": "Desperdiçar recursos naturais", "is_correct": false}
+    ]
+  },
+  {
+    "text": "O que pode ser feito para promover a mobilidade sustentável em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Investir em transporte público eficiente e incentivar o uso de bicicletas e caminhadas", "is_correct": true},
+      {"number": 2, "text": "Aumentar o uso de veículos individuais movidos a combustíveis fósseis", "is_correct": false},
+      {"number": 3, "text": "Ignorar a necessidade de alternativas de transporte", "is_correct": false},
+      {"number": 4, "text": "Desprezar a importância das ciclovias e calçadas", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante proteger os recursos hídricos em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para garantir o abastecimento de água potável e preservar os ecossistemas aquáticos", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a poluição dos rios e lagos", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto do aumento do uso de plástico em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Aumento da poluição do solo, da água e do ar", "is_correct": true},
+      {"number": 2, "text": "Melhoria da qualidade de vida dos habitantes", "is_correct": false},
+      {"number": 3, "text": "Redução da produção de lixo", "is_correct": false},
+      {"number": 4, "text": "Diminuição da quantidade de resíduos plásticos nos oceanos", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o benefício da implantação de telhados verdes em edifícios de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Redução do calor urbano, melhoria da qualidade do ar e absorção de água da chuva", "is_correct": true},
+      {"number": 2, "text": "Aumento do consumo de energia elétrica", "is_correct": false},
+      {"number": 3, "text": "Diminuição da biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Aumento da poluição do ar", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante preservar as áreas de preservação permanente (APPs) em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para proteger os recursos naturais, regular o clima e evitar desastres naturais", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
+      {"number": 3, "text": "Para diminuir a quantidade de áreas verdes", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da poluição do solo em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Contaminação de lençóis freáticos, redução da fertilidade do solo e comprometimento da saúde humana", "is_correct": true},
+      {"number": 2, "text": "Melhoria da qualidade do ar", "is_correct": false},
+      {"number": 3, "text": "Aumento da biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Diminuição do risco de desertificação", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante controlar o volume de resíduos gerados em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para reduzir a poluição e os impactos ambientais", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a quantidade de resíduos enviados para aterros sanitários", "is_correct": false},
+      {"number": 3, "text": "Para incentivar o descarte irregular de resíduos", "is_correct": false},
+      {"number": 4, "text": "Para aumentar os custos de gestão de resíduos", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto do uso excessivo de pesticidas na agricultura urbana de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Contaminação do solo e da água, redução da biodiversidade e riscos à saúde humana", "is_correct": true},
+      {"number": 2, "text": "Aumento da produtividade agrícola", "is_correct": false},
+      {"number": 3, "text": "Melhoria da qualidade dos alimentos", "is_correct": false},
+      {"number": 4, "text": "Diminuição do uso de recursos naturais", "is_correct": false}
+    ]
+  },
+  {
+    "text": "O que pode ser feito para reduzir o impacto das ilhas de calor em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Aumentar as áreas verdes e utilizar materiais que refletem a luz solar nos edifícios", "is_correct": true},
+      {"number": 2, "text": "Aumentar o uso de superfícies asfálticas e concretadas", "is_correct": false},
+      {"number": 3, "text": "Desprezar a importância da vegetação urbana", "is_correct": false},
+      {"number": 4, "text": "Ignorar a influência das ilhas de calor na qualidade de vida", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da degradação de áreas de manguezal em uma metrópole costeira?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Redução da proteção contra erosão costeira, perda de biodiversidade e prejuízos à pesca", "is_correct": true},
+      {"number": 2, "text": "Aumento da qualidade da água do mar", "is_correct": false},
+      {"number": 3, "text": "Diminuição do risco de inundações", "is_correct": false},
+      {"number": 4, "text": "Melhoria do habitat para espécies marinhas", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante proteger as áreas de nascentes e mananciais em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para garantir o abastecimento de água potável e a proteção dos recursos hídricos", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto do aumento do tráfego de veículos em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Aumento da poluição do ar, sonora e do consumo de energia", "is_correct": true},
+      {"number": 2, "text": "Melhoria da qualidade de vida dos habitantes", "is_correct": false},
+      {"number": 3, "text": "Diminuição do congestionamento", "is_correct": false},
+      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante incentivar a coleta seletiva de resíduos em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para facilitar a reciclagem e reduzir a quantidade de resíduos destinados aos aterros sanitários", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a produção de lixo", "is_correct": false},
+      {"number": 3, "text": "Para aumentar a poluição do solo", "is_correct": false},
+      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da urbanização desordenada em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Aumento do desmatamento, da poluição e dos problemas sociais", "is_correct": true},
+      {"number": 2, "text": "Melhoria da qualidade de vida", "is_correct": false},
+      {"number": 3, "text": "Diminuição do consumo de recursos naturais", "is_correct": false},
+      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante adotar práticas sustentáveis na construção civil de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para reduzir o impacto ambiental e promover o desenvolvimento urbano sustentável", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a produção de resíduos e poluentes", "is_correct": false},
+      {"number": 3, "text": "Para diminuir a qualidade das construções", "is_correct": false},
+      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da contaminação do ar nas áreas residenciais de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Aumento de problemas respiratórios e cardiovasculares", "is_correct": true},
+      {"number": 2, "text": "Melhoria da qualidade de vida", "is_correct": false},
+      {"number": 3, "text": "Diminuição da poluição sonora", "is_correct": false},
+      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante investir em transporte público de qualidade em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para reduzir o tráfego de veículos individuais e a poluição do ar", "is_correct": true},
+      {"number": 2, "text": "Para aumentar o uso de automóveis particulares", "is_correct": false},
+      {"number": 3, "text": "Para aumentar a poluição sonora", "is_correct": false},
+      {"number": 4, "text": "Para diminuir a acessibilidade aos cidadãos", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da poluição luminosa em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Prejuízo à observação astronômica e ao ciclo natural de algumas espécies", "is_correct": true},
+      {"number": 2, "text": "Aumento da segurança pública", "is_correct": false},
+      {"number": 3, "text": "Melhoria da qualidade de vida", "is_correct": false},
+      {"number": 4, "text": "Diminuição da poluição do ar", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante implementar sistemas de drenagem sustentável em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para reduzir o risco de enchentes e melhorar a qualidade da água", "is_correct": true},
+      {"number": 2, "text": "Para aumentar o desperdício de água", "is_correct": false},
+      {"number": 3, "text": "Para aumentar a poluição dos rios", "is_correct": false},
+      {"number": 4, "text": "Para diminuir a qualidade do ar", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o benefício da instalação de sistemas de captação de água da chuva em edifícios de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Redução do consumo de água potável e minimização do impacto das enchentes", "is_correct": true},
+      {"number": 2, "text": "Aumento do consumo de água tratada", "is_correct": false},
+      {"number": 3, "text": "Aumento da poluição dos rios", "is_correct": false},
+      {"number": 4, "text": "Diminuição da qualidade do ar", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante promover a proteção dos parques e áreas verdes em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para garantir o acesso à natureza, a qualidade do ar e o bem-estar da população", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da poluição do ar no aquecimento global e nas mudanças climáticas?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Contribui para o aumento das temperaturas e a intensificação dos fenômenos climáticos extremos", "is_correct": true},
+      {"number": 2, "text": "Reduz o efeito estufa", "is_correct": false},
+      {"number": 3, "text": "Diminui a poluição do solo", "is_correct": false},
+      {"number": 4, "text": "Aumenta a biodiversidade", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante preservar os espaços naturais dentro de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para garantir a qualidade de vida, a biodiversidade e a regulação do clima", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a quantidade de áreas verdes", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da poluição do ar nas áreas de saúde pública de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Aumento das doenças respiratórias e cardiovasculares", "is_correct": true},
+      {"number": 2, "text": "Diminuição dos casos de doenças relacionadas à poluição", "is_correct": false},
+      {"number": 3, "text": "Melhoria da qualidade de vida da população", "is_correct": false},
+      {"number": 4, "text": "Diminuição do risco de epidemias", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante promover a preservação das áreas de mata nativa em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para proteger a biodiversidade, regular o clima e garantir serviços ecossistêmicos", "is_correct": true},
+      {"number": 2, "text": "Para aumentar o desmatamento", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a quantidade de áreas verdes", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da falta de saneamento básico em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Aumento da propagação de doenças e contaminação dos recursos hídricos", "is_correct": true},
+      {"number": 2, "text": "Redução da poluição do ar", "is_correct": false},
+      {"number": 3, "text": "Diminuição do consumo de água", "is_correct": false},
+      {"number": 4, "text": "Melhoria da qualidade de vida da população", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante controlar a poluição do solo em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para evitar a contaminação de lençóis freáticos e a degradação ambiental", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a produção agrícola", "is_correct": false},
+      {"number": 3, "text": "Para diminuir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a poluição do ar", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o benefício da instalação de sistemas de reuso de água em edifícios de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Redução do consumo de água potável e minimização do impacto ambiental", "is_correct": true},
+      {"number": 2, "text": "Aumento do consumo de água tratada", "is_correct": false},
+      {"number": 3, "text": "Aumento da poluição dos rios", "is_correct": false},
+      {"number": 4, "text": "Diminuição da qualidade do ar", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante promover a preservação das áreas de recarga de aquíferos em uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para garantir a disponibilidade de água subterrânea e a sustentabilidade dos recursos hídricos", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
+      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
+      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Qual é o impacto da poluição sonora nas áreas urbanas de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Prejuízo à saúde auditiva, sono e qualidade de vida das pessoas", "is_correct": true},
+      {"number": 2, "text": "Aumento da qualidade de vida", "is_correct": false},
+      {"number": 3, "text": "Diminuição da poluição do ar", "is_correct": false},
+      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+    ]
+  },
+  {
+    "text": "Por que é importante incentivar o uso de tecnologias limpas na indústria de uma metrópole?",
+    "difficulty": "easy",
+    "amount": 1000.0,
+    "options": [
+      {"number": 1, "text": "Para reduzir a emissão de poluentes e o consumo de recursos naturais", "is_correct": true},
+      {"number": 2, "text": "Para aumentar a produção de resíduos", "is_correct": false},
+      {"number": 3, "text": "Para diminuir a eficiência energética", "is_correct": false},
+      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+    ]
+  }
+]
