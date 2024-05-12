@@ -12,7 +12,7 @@ public class Game {
     private static final int MAX_HARD_QUESTIONS = 20;
 
     // A lista de questões disponíveis do arquivo "questions.json"
-    private List<Question> questions;
+    private final List<Question> questions;
 
     // O índice da questão atual do arquivo "questions.json"
     private int currentQuestionIndex;
@@ -22,7 +22,7 @@ public class Game {
 
     // Variáveis do sistema de eliminação de perguntas
     private int remainingEliminations;
-    private List<Option> removedOptions;
+    private final List<Option> removedOptions;
 
     private int remainingUniversityAssists;
 
@@ -192,6 +192,8 @@ public class Game {
             System.out.println("Resposta correta! Você ganhou R$" + question.getAmount() + ".");
         } else {
             System.out.println("Resposta incorreta! O jogo acabou. Você ganhou R$" + moneyEarned + ".");
+            this.shouldStop = true;
+
             return;
         }
 
