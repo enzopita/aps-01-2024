@@ -2,507 +2,2512 @@
   {
     "text": "Qual é um dos principais problemas ambientais enfrentados em metrópoles?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Poluição do ar", "is_correct": true},
-      {"number": 2, "text": "Desmatamento de florestas", "is_correct": false},
-      {"number": 3, "text": "Acidificação dos oceanos", "is_correct": false},
-      {"number": 4, "text": "Erosão do solo", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Poluição do ar",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Desmatamento de florestas",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Acidificação dos oceanos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Erosão do solo",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "O que pode ser feito para reduzir a poluição do ar em uma metrópole?",
+    "text": "Qual recurso natural está em risco devido à exploração excessiva e à poluição?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Promover o uso de transportes públicos", "is_correct": true},
-      {"number": 2, "text": "Aumentar o desmatamento", "is_correct": false},
-      {"number": 3, "text": "Descartar lixo nas ruas", "is_correct": false},
-      {"number": 4, "text": "Queimar mais combustíveis fósseis", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Água",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Vento",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Areia",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Sol",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é a importância das áreas verdes dentro de uma metrópole?",
+    "text": "Qual é o principal gás responsável pelo efeito estufa?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Melhorar a qualidade do ar e proporcionar lazer", "is_correct": true},
-      {"number": 2, "text": "Aumentar a poluição do solo", "is_correct": false},
-      {"number": 3, "text": "Reduzir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Aumentar a temperatura da cidade", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Dióxido de carbono (CO2)",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Oxigênio (O2)",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Nitrogênio (N2)",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Metano (CH4)",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "O que pode ser feito para reduzir o desperdício de água em uma metrópole?",
+    "text": "O que é biodiversidade?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Promover o uso consciente e a reutilização da água", "is_correct": true},
-      {"number": 2, "text": "Aumentar o consumo de água", "is_correct": false},
-      {"number": 3, "text": "Despejar resíduos químicos nos rios", "is_correct": false},
-      {"number": 4, "text": "Ignorar vazamentos em encanamentos", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Variedade de vida na Terra",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Energia gerada por seres vivos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Mudança climática global",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Produção de alimentos orgânicos",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que a poluição sonora é prejudicial em uma metrópole?",
+    "text": "O que é a camada de ozônio e por que é importante?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Pode causar estresse e afetar a saúde mental das pessoas", "is_correct": true},
-      {"number": 2, "text": "Aumenta a produtividade e a concentração", "is_correct": false},
-      {"number": 3, "text": "Contribui para a preservação da biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Diminui o tráfego de veículos", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Uma camada na atmosfera que protege a Terra dos raios ultravioleta prejudiciais",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Uma camada de poluição que afeta a qualidade do ar nas cidades",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Uma camada de vapor d'água que regula o clima global",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Uma camada de gases que impedem a entrada de oxigênio na atmosfera",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é a importância de políticas de reciclagem em uma metrópole?",
+    "text": "Qual é a principal fonte de energia renovável?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Reduzir a quantidade de resíduos enviados para aterros sanitários", "is_correct": true},
-      {"number": 2, "text": "Aumentar a poluição do ar", "is_correct": false},
-      {"number": 3, "text": "Desperdiçar recursos naturais", "is_correct": false},
-      {"number": 4, "text": "Aumentar os custos de produção", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Solar",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Carvão",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Petróleo",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Gás natural",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o papel dos cidadãos na preservação do meio ambiente em uma metrópole?",
+    "text": "Qual é o processo pelo qual as plantas convertem a luz solar em energia?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Adotar práticas sustentáveis e participar de iniciativas de conservação", "is_correct": true},
-      {"number": 2, "text": "Ignorar a coleta seletiva de resíduos", "is_correct": false},
-      {"number": 3, "text": "Desperdiçar recursos naturais", "is_correct": false},
-      {"number": 4, "text": "Aumentar a poluição do ar", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Fotossíntese",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Respiração",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Transpiração",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Germinação",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto do desmatamento urbano na qualidade de vida dos habitantes?",
+    "text": "Qual é o principal poluente responsável pela chuva ácida?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Redução da qualidade do ar, aumento das temperaturas e diminuição da biodiversidade", "is_correct": true},
-      {"number": 2, "text": "Melhoria da qualidade do ar e aumento da biodiversidade", "is_correct": false},
-      {"number": 3, "text": "Aumento das áreas verdes e redução da poluição sonora", "is_correct": false},
-      {"number": 4, "text": "Aumento da poluição do solo e da água", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Dióxido de enxofre (SO2)",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Óxido de nitrogênio (NOx)",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Monóxido de carbono (CO)",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Metano (CH4)",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que a gestão adequada dos resíduos sólidos é importante em uma metrópole?",
+    "text": "Qual das seguintes ações ajuda a conservar os recursos naturais?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para evitar a poluição do solo, da água e do ar, além de atrair pragas urbanas", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a produção de lixo e a demanda por aterros sanitários", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Para incentivar a prática do descarte irregular de resíduos", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Reciclagem",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Descarte indiscriminado de resíduos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Queima de lixo",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Uso excessivo de plástico descartável",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "O que pode ser feito para combater a poluição da água em uma metrópole?",
+    "text": "Qual é um dos principais impactos ambientais da agricultura intensiva?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Investir em tratamento de esgoto e evitar o descarte irregular de resíduos", "is_correct": true},
-      {"number": 2, "text": "Aumentar o despejo de resíduos químicos nos rios", "is_correct": false},
-      {"number": 3, "text": "Reduzir o consumo de água", "is_correct": false},
-      {"number": 4, "text": "Ignorar a presença de lixo nas margens dos rios", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Esgotamento do solo e contaminação da água",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição do uso de pesticidas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Redução do desperdício de alimentos",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da poluição do ar na saúde das pessoas que vivem em metrópoles?",
+    "text": "Qual é o principal fator por trás do aumento do nível do mar?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Pode causar doenças respiratórias e cardiovasculares", "is_correct": true},
-      {"number": 2, "text": "Contribui para a melhoria da qualidade do ar", "is_correct": false},
-      {"number": 3, "text": "Reduz o risco de problemas de saúde", "is_correct": false},
-      {"number": 4, "text": "Aumenta a expectativa de vida", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Derretimento das calotas de gelo",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Diminuição da temperatura da água do mar",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da absorção de água pelo solo",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Erosão costeira",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é uma maneira eficaz de reduzir o desperdício de energia em uma metrópole?",
+    "text": "O que é o efeito estufa?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Promover o uso de fontes de energia renováveis", "is_correct": true},
-      {"number": 2, "text": "Aumentar o consumo de energia elétrica", "is_correct": false},
-      {"number": 3, "text": "Ignorar o uso de lâmpadas econômicas", "is_correct": false},
-      {"number": 4, "text": "Desperdiçar recursos naturais", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Fenômeno natural que mantém a Terra aquecida",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da temperatura global devido à atividade humana",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Resfriamento da atmosfera terrestre",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Variação sazonal da temperatura",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é a importância da educação ambiental nas escolas de uma metrópole?",
+    "text": "Qual das seguintes fontes de energia é não renovável?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para conscientizar e capacitar os alunos a adotarem práticas sustentáveis", "is_correct": true},
-      {"number": 2, "text": "Para aumentar o consumo irresponsável de recursos naturais", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Para incentivar o descarte irregular de resíduos", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Carvão",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Solar",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Eólica",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Biomassa",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante plantar árvores em uma metrópole?",
+    "text": "Qual é um dos principais problemas associados à poluição do solo?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para melhorar a qualidade do ar e proporcionar sombra", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a poluição do solo", "is_correct": false},
-      {"number": 3, "text": "Para diminuir a quantidade de áreas verdes", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a temperatura da cidade", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Contaminação de lençóis freáticos",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da fertilidade do solo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da erosão",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o papel das empresas na preservação do meio ambiente em uma metrópole?",
+    "text": "O que são os oceanos?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Adotar práticas sustentáveis e reduzir o impacto ambiental de suas operações", "is_correct": true},
-      {"number": 2, "text": "Aumentar a produção de resíduos e poluentes", "is_correct": false},
-      {"number": 3, "text": "Ignorar a legislação ambiental", "is_correct": false},
-      {"number": 4, "text": "Desperdiçar recursos naturais", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Grandes corpos de água salgada que cobrem a maior parte da superfície da Terra",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Grandes lagos de água doce",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Rios extensos que cortam continentes",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Lagos de água salgada",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "O que pode ser feito para promover a mobilidade sustentável em uma metrópole?",
+    "text": "Qual das seguintes atividades humanas contribui significativamente para a destruição de habitats naturais?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Investir em transporte público eficiente e incentivar o uso de bicicletas e caminhadas", "is_correct": true},
-      {"number": 2, "text": "Aumentar o uso de veículos individuais movidos a combustíveis fósseis", "is_correct": false},
-      {"number": 3, "text": "Ignorar a necessidade de alternativas de transporte", "is_correct": false},
-      {"number": 4, "text": "Desprezar a importância das ciclovias e calçadas", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Desmatamento",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Reflorestamento",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Conservação de áreas protegidas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Reciclagem de resíduos",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante proteger os recursos hídricos em uma metrópole?",
+    "text": "O que são os biomas?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para garantir o abastecimento de água potável e preservar os ecossistemas aquáticos", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a poluição dos rios e lagos", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Grandes áreas geográficas com ecossistemas semelhantes",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Regiões urbanas densamente povoadas",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Pequenas reservas naturais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Zonas polares permanentemente congeladas",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto do aumento do uso de plástico em uma metrópole?",
+    "text": "O que são as espécies invasoras?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Aumento da poluição do solo, da água e do ar", "is_correct": true},
-      {"number": 2, "text": "Melhoria da qualidade de vida dos habitantes", "is_correct": false},
-      {"number": 3, "text": "Redução da produção de lixo", "is_correct": false},
-      {"number": 4, "text": "Diminuição da quantidade de resíduos plásticos nos oceanos", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Espécies que se estabelecem em novos ambientes e causam danos às espécies nativas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Espécies que são nativas de uma região e se adaptam bem ao ambiente local",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Espécies que estão ameaçadas de extinção devido à destruição de seus habitats",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Espécies que habitam apenas regiões polares",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o benefício da implantação de telhados verdes em edifícios de uma metrópole?",
+    "text": "Qual é um exemplo de recurso natural renovável?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Redução do calor urbano, melhoria da qualidade do ar e absorção de água da chuva", "is_correct": true},
-      {"number": 2, "text": "Aumento do consumo de energia elétrica", "is_correct": false},
-      {"number": 3, "text": "Diminuição da biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Aumento da poluição do ar", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Luz solar",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Petróleo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Carvão",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Gás natural",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante preservar as áreas de preservação permanente (APPs) em uma metrópole?",
+    "text": "O que é a poluição luminosa e como ela afeta o meio ambiente?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para proteger os recursos naturais, regular o clima e evitar desastres naturais", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
-      {"number": 3, "text": "Para diminuir a quantidade de áreas verdes", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Excesso de luz artificial que interfere nos ciclos naturais de muitas espécies",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Acúmulo de gases tóxicos na atmosfera devido à queima de combustíveis fósseis",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Poluição causada por resíduos plásticos nos oceanos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Contaminação da água potável por substâncias químicas",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da poluição do solo em uma metrópole?",
+    "text": "O que é a desertificação e quais são suas causas?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Contaminação de lençóis freáticos, redução da fertilidade do solo e comprometimento da saúde humana", "is_correct": true},
-      {"number": 2, "text": "Melhoria da qualidade do ar", "is_correct": false},
-      {"number": 3, "text": "Aumento da biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Diminuição do risco de desertificação", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Processo de degradação de terras férteis em desertos devido à atividade humana e mudanças climáticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento das áreas cultiváveis devido à tecnologia agrícola moderna",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Processo natural de formação de desertos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da temperatura global",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante controlar o volume de resíduos gerados em uma metrópole?",
+    "text": "Qual é um dos principais problemas associados ao descarte inadequado de resíduos eletrônicos?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para reduzir a poluição e os impactos ambientais", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a quantidade de resíduos enviados para aterros sanitários", "is_correct": false},
-      {"number": 3, "text": "Para incentivar o descarte irregular de resíduos", "is_correct": false},
-      {"number": 4, "text": "Para aumentar os custos de gestão de resíduos", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Contaminação do solo e da água por metais pesados",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Melhoria da saúde pública",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Redução do consumo de recursos naturais",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto do uso excessivo de pesticidas na agricultura urbana de uma metrópole?",
+    "text": "O que é a acidificação dos oceanos e por que é preocupante?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Contaminação do solo e da água, redução da biodiversidade e riscos à saúde humana", "is_correct": true},
-      {"number": 2, "text": "Aumento da produtividade agrícola", "is_correct": false},
-      {"number": 3, "text": "Melhoria da qualidade dos alimentos", "is_correct": false},
-      {"number": 4, "text": "Diminuição do uso de recursos naturais", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Aumento da acidez dos oceanos devido à absorção de dióxido de carbono atmosférico, prejudicando organismos marinhos",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Diminuição da salinidade dos oceanos devido ao derretimento das calotas de gelo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Redução da temperatura da água do mar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da biodiversidade marinha",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "O que pode ser feito para reduzir o impacto das ilhas de calor em uma metrópole?",
+    "text": "Qual é um dos principais impactos da poluição do ar na saúde humana?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Aumentar as áreas verdes e utilizar materiais que refletem a luz solar nos edifícios", "is_correct": true},
-      {"number": 2, "text": "Aumentar o uso de superfícies asfálticas e concretadas", "is_correct": false},
-      {"number": 3, "text": "Desprezar a importância da vegetação urbana", "is_correct": false},
-      {"number": 4, "text": "Ignorar a influência das ilhas de calor na qualidade de vida", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Problemas respiratórios, como asma e bronquite",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Fortalecimento do sistema imunológico",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da incidência de doenças cardíacas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da expectativa de vida",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da degradação de áreas de manguezal em uma metrópole costeira?",
+    "text": "O que é a poluição da água e como ela afeta os ecossistemas aquáticos?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Redução da proteção contra erosão costeira, perda de biodiversidade e prejuízos à pesca", "is_correct": true},
-      {"number": 2, "text": "Aumento da qualidade da água do mar", "is_correct": false},
-      {"number": 3, "text": "Diminuição do risco de inundações", "is_correct": false},
-      {"number": 4, "text": "Melhoria do habitat para espécies marinhas", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Presença de substâncias nocivas na água, prejudicando a vida aquática",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da biodiversidade nos rios e oceanos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Melhoria da qualidade da água potável",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição do volume de água nos corpos d'água",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante proteger as áreas de nascentes e mananciais em uma metrópole?",
+    "text": "O que é a biomassa e como pode ser utilizada para geração de energia?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para garantir o abastecimento de água potável e a proteção dos recursos hídricos", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Material orgânico renovável, como resíduos agrícolas e florestais, que pode ser queimado para gerar eletricidade",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Substância química tóxica presente em certas algas marinhas",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Tipo de energia solar capturada por plantas durante a fotossíntese",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Resíduos plásticos descartados",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto do aumento do tráfego de veículos em uma metrópole?",
+    "text": "O que é a reciclagem e por que é importante para o meio ambiente?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Aumento da poluição do ar, sonora e do consumo de energia", "is_correct": true},
-      {"number": 2, "text": "Melhoria da qualidade de vida dos habitantes", "is_correct": false},
-      {"number": 3, "text": "Diminuição do congestionamento", "is_correct": false},
-      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Processo de transformação de resíduos em novos materiais utilizáveis",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Descarte indiscriminado de lixo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Queima de resíduos para geração de energia",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Uso excessivo de recursos naturais",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante incentivar a coleta seletiva de resíduos em uma metrópole?",
+    "text": "O que é o desmatamento e por que é uma preocupação ambiental?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para facilitar a reciclagem e reduzir a quantidade de resíduos destinados aos aterros sanitários", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a produção de lixo", "is_correct": false},
-      {"number": 3, "text": "Para aumentar a poluição do solo", "is_correct": false},
-      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Remoção de árvores de forma indiscriminada, causando perda de habitat e redução da biodiversidade",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da cobertura florestal, beneficiando a fauna local",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Prática sustentável de manejo florestal",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Processo natural de renovação das florestas",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da urbanização desordenada em uma metrópole?",
+    "text": "O que é o consumo sustentável e por que é importante para o meio ambiente?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Aumento do desmatamento, da poluição e dos problemas sociais", "is_correct": true},
-      {"number": 2, "text": "Melhoria da qualidade de vida", "is_correct": false},
-      {"number": 3, "text": "Diminuição do consumo de recursos naturais", "is_correct": false},
-      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Prática de utilizar recursos de forma que atenda às necessidades presentes sem comprometer as gerações futuras",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Consumo excessivo de recursos naturais",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Desperdício de materiais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Uso indiscriminado de combustíveis fósseis",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante adotar práticas sustentáveis na construção civil de uma metrópole?",
+    "text": "O que é a contaminação por agrotóxicos e quais são seus impactos na saúde e no meio ambiente?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para reduzir o impacto ambiental e promover o desenvolvimento urbano sustentável", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a produção de resíduos e poluentes", "is_correct": false},
-      {"number": 3, "text": "Para diminuir a qualidade das construções", "is_correct": false},
-      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Presença de substâncias químicas tóxicas em alimentos e no ambiente, causando danos à saúde humana e ao ecossistema",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Método de cultivo agrícola que não utiliza produtos químicos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Prática agrícola que aumenta a biodiversidade",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Redução da produtividade agrícola",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da contaminação do ar nas áreas residenciais de uma metrópole?",
+    "text": "O que é a gestão de resíduos e qual é sua importância para o meio ambiente?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Aumento de problemas respiratórios e cardiovasculares", "is_correct": true},
-      {"number": 2, "text": "Melhoria da qualidade de vida", "is_correct": false},
-      {"number": 3, "text": "Diminuição da poluição sonora", "is_correct": false},
-      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Processo de coleta, transporte, tratamento e disposição final de resíduos de forma ambientalmente adequada",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Descarte aleatório de lixo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Queima de resíduos a céu aberto",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aterramento de resíduos em áreas protegidas",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante investir em transporte público de qualidade em uma metrópole?",
+    "text": "O que é a pegada ecológica de uma pessoa?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para reduzir o tráfego de veículos individuais e a poluição do ar", "is_correct": true},
-      {"number": 2, "text": "Para aumentar o uso de automóveis particulares", "is_correct": false},
-      {"number": 3, "text": "Para aumentar a poluição sonora", "is_correct": false},
-      {"number": 4, "text": "Para diminuir a acessibilidade aos cidadãos", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Medida do impacto de uma pessoa no meio ambiente em termos de consumo de recursos naturais e produção de resíduos",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Marca deixada por uma pessoa na natureza",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Área de terra necessária para sustentar a vida de uma pessoa",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Capacidade de uma pessoa de se adaptar a ambientes diferentes",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da poluição luminosa em uma metrópole?",
+    "text": "O que são os recursos hídricos e por que são importantes para a vida na Terra?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Prejuízo à observação astronômica e ao ciclo natural de algumas espécies", "is_correct": true},
-      {"number": 2, "text": "Aumento da segurança pública", "is_correct": false},
-      {"number": 3, "text": "Melhoria da qualidade de vida", "is_correct": false},
-      {"number": 4, "text": "Diminuição da poluição do ar", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Água doce disponível para uso humano e atividades econômicas, essenciais para a vida e o desenvolvimento",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Água salgada dos oceanos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Gelo polar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Água subterrânea",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante implementar sistemas de drenagem sustentável em uma metrópole?",
+    "text": "O que é a poluição sonora e como ela afeta os seres vivos?",
     "difficulty": "easy",
-    "amount": 1000.0,
+    "amount": 1000,
     "options": [
-      {"number": 1, "text": "Para reduzir o risco de enchentes e melhorar a qualidade da água", "is_correct": true},
-      {"number": 2, "text": "Para aumentar o desperdício de água", "is_correct": false},
-      {"number": 3, "text": "Para aumentar a poluição dos rios", "is_correct": false},
-      {"number": 4, "text": "Para diminuir a qualidade do ar", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Excesso de ruídos que podem causar estresse e danos auditivos em humanos e animais",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Poluição do ar causada por gases tóxicos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Poluição da água por substâncias químicas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Poluição luminosa que interfere na visão noturna de animais",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o benefício da instalação de sistemas de captação de água da chuva em edifícios de uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é o buraco na camada de ozônio e quais são suas causas?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Redução do consumo de água potável e minimização do impacto das enchentes", "is_correct": true},
-      {"number": 2, "text": "Aumento do consumo de água tratada", "is_correct": false},
-      {"number": 3, "text": "Aumento da poluição dos rios", "is_correct": false},
-      {"number": 4, "text": "Diminuição da qualidade do ar", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Redução na quantidade de ozônio na estratosfera devido à emissão de substâncias químicas como os clorofluorocarbonetos (CFCs)",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na espessura da camada de ozônio devido à poluição do ar",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Fenômeno natural causado por variações na atividade solar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento na concentração de ozônio na troposfera",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante promover a proteção dos parques e áreas verdes em uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que são os corais e por que são importantes para os ecossistemas marinhos?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Para garantir o acesso à natureza, a qualidade do ar e o bem-estar da população", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Organismos marinhos que formam recifes e servem de habitat para uma grande diversidade de espécies",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Plantas aquáticas que realizam fotossíntese",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Micro-organismos responsáveis pela produção de oxigênio na água do mar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Espécies de peixes encontradas em águas profundas",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da poluição do ar no aquecimento global e nas mudanças climáticas?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é a poluição por plásticos nos oceanos e quais são seus impactos?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Contribui para o aumento das temperaturas e a intensificação dos fenômenos climáticos extremos", "is_correct": true},
-      {"number": 2, "text": "Reduz o efeito estufa", "is_correct": false},
-      {"number": 3, "text": "Diminui a poluição do solo", "is_correct": false},
-      {"number": 4, "text": "Aumenta a biodiversidade", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Presença de resíduos plásticos que afetam a vida marinha e podem entrar na cadeia alimentar humana",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Acúmulo de plâncton na superfície do mar",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da acidez dos oceanos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria da qualidade da água",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante preservar os espaços naturais dentro de uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é o Protocolo de Kyoto e qual é seu objetivo?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Para garantir a qualidade de vida, a biodiversidade e a regulação do clima", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a quantidade de áreas verdes", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Acordo internacional para reduzir as emissões de gases de efeito estufa e combater as mudanças climáticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Tratado para a exploração sustentável de recursos marinhos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Plano de conservação de espécies ameaçadas de extinção",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Programa de reflorestamento em áreas desmatadas",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da poluição do ar nas áreas de saúde pública de uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é a poluição térmica e como ela afeta os ecossistemas aquáticos?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Aumento das doenças respiratórias e cardiovasculares", "is_correct": true},
-      {"number": 2, "text": "Diminuição dos casos de doenças relacionadas à poluição", "is_correct": false},
-      {"number": 3, "text": "Melhoria da qualidade de vida da população", "is_correct": false},
-      {"number": 4, "text": "Diminuição do risco de epidemias", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Aumento da temperatura da água devido à descarga de água aquecida por usinas de energia e indústrias, afetando a vida aquática",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Diminuição da temperatura da água devido à presença de gelo derretido",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da salinidade da água devido à evaporação excessiva",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da oxigenação da água devido à presença de algas",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante promover a preservação das áreas de mata nativa em uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é a poluição por nutrientes em corpos d'água e como ela afeta os ecossistemas aquáticos?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Para proteger a biodiversidade, regular o clima e garantir serviços ecossistêmicos", "is_correct": true},
-      {"number": 2, "text": "Para aumentar o desmatamento", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a quantidade de áreas verdes", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Excesso de nutrientes, como nitrogênio e fósforo, que causam eutrofização e degradação da qualidade da água",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Falta de nutrientes essenciais para o crescimento de algas",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da produção de oxigênio na água",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da falta de saneamento básico em uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que são os gases de efeito estufa e como contribuem para as mudanças climáticas?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Aumento da propagação de doenças e contaminação dos recursos hídricos", "is_correct": true},
-      {"number": 2, "text": "Redução da poluição do ar", "is_correct": false},
-      {"number": 3, "text": "Diminuição do consumo de água", "is_correct": false},
-      {"number": 4, "text": "Melhoria da qualidade de vida da população", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Gases que retêm o calor na atmosfera, contribuindo para o aquecimento global ao absorverem e reemitirem a radiação infravermelha",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Gases que resfriam a atmosfera terrestre",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Gases produzidos apenas por atividades naturais, sem influência humana",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Gases que protegem a Terra contra o excesso de radiação solar",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante controlar a poluição do solo em uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é a biodiversidade marinha e por que é importante protegê-la?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Para evitar a contaminação de lençóis freáticos e a degradação ambiental", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a produção agrícola", "is_correct": false},
-      {"number": 3, "text": "Para diminuir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a poluição do ar", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Variedade de vida nos oceanos, que desempenha um papel fundamental na manutenção dos ecossistemas marinhos e na sustentabilidade global",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Redução na quantidade de organismos marinhos devido à pesca excessiva",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da salinidade da água do mar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da temperatura dos oceanos",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o benefício da instalação de sistemas de reuso de água em edifícios de uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é a desertificação e quais são suas consequências para as populações locais?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Redução do consumo de água potável e minimização do impacto ambiental", "is_correct": true},
-      {"number": 2, "text": "Aumento do consumo de água tratada", "is_correct": false},
-      {"number": 3, "text": "Aumento da poluição dos rios", "is_correct": false},
-      {"number": 4, "text": "Diminuição da qualidade do ar", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Processo de degradação de terras férteis em desertos, que pode levar à escassez de alimentos, migrações e conflitos sociais",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento das áreas irrigadas para combater a seca",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Prática de reflorestamento em regiões áridas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da temperatura e umidade em regiões tropicais",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante promover a preservação das áreas de recarga de aquíferos em uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é a poluição por metais pesados e quais são seus impactos no meio ambiente e na saúde humana?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Para garantir a disponibilidade de água subterrânea e a sustentabilidade dos recursos hídricos", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a urbanização desordenada", "is_correct": false},
-      {"number": 3, "text": "Para reduzir a biodiversidade", "is_correct": false},
-      {"number": 4, "text": "Para aumentar a poluição do solo", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Presença de elementos como mercúrio, chumbo e cádmio no ambiente, causando contaminação do solo, da água e dos organismos, com graves consequências para a saúde e os ecossistemas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da fertilidade do solo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Melhoria da qualidade da água potável",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Qual é o impacto da poluição sonora nas áreas urbanas de uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é a preservação da biodiversidade e por que é importante?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Prejuízo à saúde auditiva, sono e qualidade de vida das pessoas", "is_correct": true},
-      {"number": 2, "text": "Aumento da qualidade de vida", "is_correct": false},
-      {"number": 3, "text": "Diminuição da poluição do ar", "is_correct": false},
-      {"number": 4, "text": "Aumento da biodiversidade", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Manutenção e proteção das diferentes formas de vida na Terra, garantindo a estabilidade dos ecossistemas e o equilíbrio dos serviços ambientais",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da exploração de recursos naturais",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Prática de desmatamento para expansão agrícola",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Redução da área de unidades de conservação",
+        "is_correct": false
+      }
     ]
   },
   {
-    "text": "Por que é importante incentivar o uso de tecnologias limpas na indústria de uma metrópole?",
-    "difficulty": "easy",
-    "amount": 1000.0,
+    "text": "O que é o desequilíbrio ecológico e quais são suas causas?",
+    "difficulty": "medium",
+    "amount": 2000,
     "options": [
-      {"number": 1, "text": "Para reduzir a emissão de poluentes e o consumo de recursos naturais", "is_correct": true},
-      {"number": 2, "text": "Para aumentar a produção de resíduos", "is_correct": false},
-      {"number": 3, "text": "Para diminuir a eficiência energética", "is_correct": false},
-      {"number": 4, "text": "Para desperdiçar recursos naturais", "is_correct": false}
+      {
+        "number": 1,
+        "text": "Alteração nas relações entre os organismos e seu ambiente, causada por fatores como desmatamento, poluição e introdução de espécies exóticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Equilíbrio natural dos ecossistemas",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da pressão seletiva sobre as espécies",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são os oceanos e qual é sua importância para o planeta Terra?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Grandes corpos de água salgada que regulam o clima, fornecem recursos naturais, abrigam uma grande diversidade de vida e são essenciais para a sobrevivência humana",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Grandes lagos de água doce",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Pequenos reservatórios de água potável",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Cursos d'água que cortam continentes",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a sustentabilidade ambiental e por que é importante para o futuro do planeta?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Princípio que busca o uso responsável dos recursos naturais, garantindo que as necessidades atuais sejam atendidas sem comprometer a capacidade das futuras gerações de suprir suas próprias necessidades",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Exploração indiscriminada de recursos para benefício imediato",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da poluição e da degradação ambiental",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Prática de desperdício de recursos naturais",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a destruição de habitats naturais e quais são suas consequências?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Perda de ambientes naturais devido à ação humana, o que pode levar à extinção de espécies, desequilíbrio dos ecossistemas e redução da biodiversidade",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da área de preservação ambiental",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Melhoria da qualidade do ar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da pressão sobre os recursos naturais",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a poluição luminosa e como ela afeta os ecossistemas e a saúde humana?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Excesso de luz artificial durante a noite que interfere nos ciclos naturais dos seres vivos, prejudicando a observação astronômica, a migração de animais e o ritmo circadiano humano",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Poluição do ar causada por partículas em suspensão",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Poluição sonora que afeta a comunicação entre os animais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Poluição térmica que aumenta a temperatura do ambiente",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a pesca predatória e quais são suas consequências para os ecossistemas marinhos?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Prática de captura excessiva de peixes que pode levar à diminuição das populações de espécies, desequilíbrio nos ecossistemas e colapso de comunidades pesqueiras",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Método sustentável de pesca que garante a reprodução das espécies",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da biodiversidade marinha",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria da qualidade da água do mar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a gestão integrada de recursos hídricos e qual é sua importância para a sustentabilidade?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Abordagem que visa coordenar o uso e a proteção dos recursos hídricos, considerando aspectos sociais, econômicos e ambientais para garantir o uso sustentável da água",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Prática de desperdício de água potável",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Exploração indiscriminada de recursos hídricos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Desvio de rios para a irrigação agrícola",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a polinização e por que é importante para os ecossistemas e para a agricultura?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de transferência de grãos de pólen entre flores, essencial para a reprodução de plantas e a produção de frutos e sementes",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Prática de controle de pragas em plantações",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Poluição do ar causada por partículas em suspensão",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da resistência das plantas a doenças",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a conservação de solos e por que é importante para a agricultura sustentável?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Prática de manejo do solo que visa prevenir a erosão, melhorar sua fertilidade e garantir a sustentabilidade das atividades agrícolas a longo prazo",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Uso indiscriminado de agrotóxicos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Desmatamento para expansão agrícola",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Queima de resíduos agrícolas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a acidificação dos solos e quais são suas causas?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Redução do pH do solo devido à deposição de ácidos provenientes da poluição atmosférica e práticas agrícolas, prejudicando a fertilidade e a disponibilidade de nutrientes para as plantas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da alcalinidade do solo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da erosão do solo",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria na retenção de água pelo solo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a bioacumulação de poluentes e como ela afeta os organismos?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Acúmulo progressivo de substâncias tóxicas nos tecidos dos organismos ao longo da cadeia alimentar, podendo causar danos à saúde e ao equilíbrio dos ecossistemas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Eliminação rápida de poluentes do corpo dos organismos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da resistência dos organismos à poluição",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da biomassa dos organismos contaminados",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são os biomas terrestres e por que são importantes para a biodiversidade?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Grandes áreas geográficas com características climáticas, vegetais e animais específicas, que abrigam uma grande variedade de espécies e ecossistemas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Pequenas reservas naturais",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Áreas urbanas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Desertos",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a reciclagem de resíduos sólidos e qual é sua importância para a redução do impacto ambiental?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de transformação de materiais descartados em novos produtos, reduzindo a extração de recursos naturais, a geração de resíduos e a poluição ambiental",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Descarte indiscriminado de resíduos em aterros sanitários",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Queima de resíduos a céu aberto",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aterramento de resíduos em áreas protegidas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a agroecologia e qual é sua importância para a agricultura sustentável?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Abordagem agrícola que integra princípios ecológicos, promovendo o cultivo de alimentos de forma sustentável, respeitando os ciclos naturais e a diversidade dos ecossistemas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Prática de monocultura intensiva",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Uso indiscriminado de agrotóxicos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Desmatamento para expansão agrícola",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a chuva ácida e quais são suas causas e consequências?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Precipitação de água com pH ácido devido à emissão de gases poluentes na atmosfera, que pode causar danos aos solos, às plantas, aos edifícios e aos corpos d'água",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da fertilidade do solo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da erosão do solo",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria na qualidade do ar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a perda de biodiversidade e quais são suas causas?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Redução na variedade e na quantidade de espécies devido à destruição de habitats naturais, poluição, introdução de espécies invasoras e mudanças climáticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na diversidade genética das populações",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Preservação de habitats naturais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da pressão seletiva sobre as espécies",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são as energias renováveis e qual é sua importância para a mitigação das mudanças climáticas?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Fontes de energia obtidas a partir de recursos naturais que são naturalmente reabastecidos, como a energia solar, eólica, hidrelétrica e biomassa, contribuindo para a redução das emissões de gases de efeito estufa",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Exploração intensiva de combustíveis fósseis",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Queima de resíduos sólidos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Desmatamento para produção de biocombustíveis",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a degradação de ecossistemas aquáticos e quais são suas causas?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de deterioração da qualidade da água e dos habitats aquáticos devido à poluição, eutrofização, sobrepesca, introdução de espécies invasoras e alterações climáticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Melhoria na saúde dos ecossistemas aquáticos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição na quantidade de nutrientes nos corpos d'água",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da biodiversidade marinha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são os impactos ambientais da agricultura e quais são as práticas sustentáveis para mitigá-los?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Alterações nos ecossistemas, como desmatamento, poluição por agrotóxicos, erosão do solo e consumo excessivo de água, que podem ser reduzidos através de práticas agrícolas sustentáveis, como agroecologia, agricultura orgânica e conservação de solos",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na diversidade de cultivos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Uso indiscriminado de fertilizantes químicos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da eficiência na produção agrícola",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é o desmatamento e quais são suas consequências para o meio ambiente e para a sociedade?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Remoção de vegetação nativa de forma indiscriminada, causando perda de biodiversidade, degradação do solo, alterações climáticas e impactos sociais, como conflitos por terras e migrações forçadas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da área de cobertura vegetal",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Melhoria na qualidade do ar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da pressão sobre os recursos naturais",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a poluição sonora e como ela afeta os seres vivos?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Excesso de ruído ambiental que pode causar estresse, interferir na comunicação entre os animais, prejudicar a audição e alterar o comportamento das espécies",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Poluição do ar causada por partículas em suspensão",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Poluição luminosa que interfere nos ciclos naturais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Poluição térmica que aumenta a temperatura do ambiente",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a poluição do ar e quais são suas principais fontes e impactos?",
+    "difficulty": "medium",
+    "amount": 2000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Presença de substâncias nocivas na atmosfera, provenientes principalmente da queima de combustíveis fósseis, indústrias e veículos, causando problemas de saúde, danos ao meio ambiente e às construções",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da poluição sonora",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria da qualidade do ar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é o aquecimento global e quais são suas causas e consequências?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Aumento da temperatura média da atmosfera terrestre devido à emissão de gases de efeito estufa, como o dióxido de carbono (CO2), provenientes principalmente da queima de combustíveis fósseis e do desmatamento, causando alterações climáticas, derretimento das calotas polares, elevação do nível do mar e extinção de espécies",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Diminuição da concentração de gases de efeito estufa na atmosfera",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Redução na intensidade dos fenômenos climáticos extremos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria na qualidade do ar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são os gases de efeito estufa e como contribuem para o aquecimento global?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Gases presentes na atmosfera terrestre que absorvem e reemitem parte da radiação solar refletida pela superfície da Terra, aumentando a temperatura média do planeta, como o dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O) e gases fluorados",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Gases que promovem o resfriamento da atmosfera",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Substâncias químicas inertes na atmosfera",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Gases que são eliminados naturalmente pela vegetação",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é o efeito estufa e qual é sua importância para o equilíbrio climático da Terra?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Fenômeno natural que consiste na retenção de parte do calor emitido pela superfície terrestre na atmosfera devido à presença de gases de efeito estufa, mantendo a temperatura do planeta em níveis adequados para a vida, porém, o aumento das concentrações desses gases devido à atividade humana tem intensificado o efeito estufa e contribuído para o aquecimento global",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Processo que resfria a atmosfera terrestre",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Fenômeno que aumenta a refletividade da Terra",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Processo que promove a dispersão do calor para o espaço",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a chuva ácida e quais são suas causas e consequências?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Precipitação de água com pH ácido devido à emissão de gases poluentes na atmosfera, que pode causar danos aos solos, às plantas, aos edifícios e aos corpos d'água",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da fertilidade do solo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da erosão do solo",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria na qualidade do ar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a desertificação e quais são suas consequências para as populações locais?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de degradação de terras férteis em desertos, que pode levar à escassez de alimentos, migrações e conflitos sociais",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento das áreas irrigadas para combater a seca",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Prática de reflorestamento em regiões áridas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da temperatura e umidade em regiões tropicais",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é o desmatamento e quais são suas consequências para o meio ambiente e para a sociedade?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Remoção de vegetação nativa de forma indiscriminada, causando perda de biodiversidade, degradação do solo, alterações climáticas e impactos sociais, como conflitos por terras e migrações forçadas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da área de cobertura vegetal",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Melhoria na qualidade do ar",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da pressão sobre os recursos naturais",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a poluição luminosa e como ela afeta os ecossistemas e a saúde humana?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Excesso de luz artificial durante a noite que interfere nos ciclos naturais dos seres vivos, prejudicando a observação astronômica, a migração de animais e o ritmo circadiano humano",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Poluição do ar causada por partículas em suspensão",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Poluição sonora que afeta a comunicação entre os animais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Poluição térmica que aumenta a temperatura do ambiente",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a acidificação dos oceanos e quais são suas causas e consequências?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Aumento da acidez dos oceanos devido à absorção de dióxido de carbono (CO2) atmosférico, que pode causar danos aos recifes de coral, aos organismos marinhos e à cadeia alimentar, afetando também as atividades econômicas dependentes do mar",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Diminuição da temperatura da água do mar",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da biodiversidade marinha",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria na qualidade da água do mar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a gestão integrada de recursos hídricos e qual é sua importância para a sustentabilidade?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Abordagem que visa coordenar o uso e a proteção dos recursos hídricos, considerando aspectos sociais, econômicos e ambientais para garantir o uso sustentável da água",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Prática de desperdício de água potável",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Exploração indiscriminada de recursos hídricos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Desvio de rios para a irrigação agrícola",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a bioacumulação de poluentes e como ela afeta os organismos?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Acúmulo progressivo de substâncias tóxicas nos tecidos dos organismos ao longo da cadeia alimentar, podendo causar danos à saúde e ao equilíbrio dos ecossistemas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Eliminação rápida de poluentes do corpo dos organismos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento da resistência dos organismos à poluição",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da biomassa dos organismos contaminados",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a perda de biodiversidade e quais são suas causas?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Redução na variedade e na quantidade de espécies devido à destruição de habitats naturais, poluição, introdução de espécies invasoras e mudanças climáticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na diversidade genética das populações",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Preservação de habitats naturais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da pressão seletiva sobre as espécies",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a desertificação e quais são suas consequências para as populações locais?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de degradação de terras férteis em desertos, que pode levar à escassez de alimentos, migrações e conflitos sociais",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento das áreas irrigadas para combater a seca",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Prática de reflorestamento em regiões áridas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da temperatura e umidade em regiões tropicais",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são os biomas terrestres e por que são importantes para a biodiversidade?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Grandes áreas geográficas com características climáticas, vegetais e animais específicas, que abrigam uma grande variedade de espécies e ecossistemas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Pequenas reservas naturais",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Áreas urbanas",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Desertos",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a reciclagem de resíduos sólidos e qual é sua importância para a redução do impacto ambiental?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de transformação de materiais descartados em novos produtos, reduzindo a extração de recursos naturais, a geração de resíduos e a poluição ambiental",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Descarte indiscriminado de resíduos em aterros sanitários",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Queima de resíduos a céu aberto",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aterramento de resíduos em áreas protegidas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a agroecologia e qual é sua importância para a agricultura sustentável?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Abordagem agrícola que integra princípios ecológicos, promovendo o cultivo de alimentos de forma sustentável, respeitando os ciclos naturais e a diversidade dos ecossistemas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Prática de monocultura intensiva",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Uso indiscriminado de agrotóxicos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Desmatamento para expansão agrícola",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a poluição sonora e como ela afeta os seres vivos?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Excesso de ruído ambiental que pode causar estresse, interferir na comunicação entre os animais, prejudicar a audição e alterar o comportamento das espécies",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Poluição do ar causada por partículas em suspensão",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Poluição luminosa que interfere nos ciclos naturais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Poluição térmica que aumenta a temperatura do ambiente",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a poluição do ar e quais são suas principais fontes e impactos?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Presença de substâncias nocivas na atmosfera, provenientes principalmente da queima de combustíveis fósseis, indústrias e veículos, causando problemas de saúde, danos ao meio ambiente e às construções",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento da biodiversidade",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição da poluição sonora",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria da qualidade do ar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a degradação de ecossistemas aquáticos e quais são suas causas?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de deterioração da qualidade da água e dos habitats aquáticos devido à poluição, eutrofização, sobrepesca, introdução de espécies invasoras e alterações climáticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Melhoria na saúde dos ecossistemas aquáticos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição na quantidade de nutrientes nos corpos d'água",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da biodiversidade marinha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são os impactos ambientais da agricultura e quais são as práticas sustentáveis para mitigá-los?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Alterações nos ecossistemas, como desmatamento, poluição por agrotóxicos, erosão do solo e consumo excessivo de água, que podem ser reduzidos através de práticas agrícolas sustentáveis, como agroecologia, agricultura orgânica e conservação de solos",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na diversidade de cultivos",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Uso indiscriminado de fertilizantes químicos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento da eficiência na produção agrícola",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que são os impactos ambientais da mineração e como podem ser mitigados?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Danos à biodiversidade, contaminação do solo e da água, destruição de ecossistemas e geração de resíduos tóxicos, que podem ser mitigados através de técnicas de recuperação de áreas degradadas, monitoramento ambiental e adoção de boas práticas de mineração",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na qualidade do solo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição na demanda por recursos minerais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Expansão das áreas de mineração",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a exploração excessiva de recursos naturais e quais são suas consequências?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Utilização de recursos naturais em ritmo acelerado, sem considerar sua capacidade de renovação, levando à degradação de ecossistemas, escassez de recursos e perda de biodiversidade",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Desenvolvimento sustentável das comunidades locais",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento na disponibilidade de recursos naturais",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Preservação dos ecossistemas naturais",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a sobreexplotação pesqueira e quais são suas consequências para os ecossistemas marinhos e para as comunidades humanas?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Captura de peixes em ritmo superior à capacidade de reprodução das espécies, levando à redução das populações de peixes, desequilíbrio nos ecossistemas marinhos e impactos socioeconômicos para pescadores e comunidades dependentes da pesca",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na diversidade de espécies marinhas",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição na pressão sobre os recursos pesqueiros",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Melhoria na qualidade da água do mar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a contaminação por agrotóxicos e quais são seus impactos na saúde humana e no meio ambiente?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Presença de substâncias químicas tóxicas nos alimentos, na água e no solo, causando danos à saúde, contaminação de ecossistemas e morte de organismos não-alvo, como insetos polinizadores e organismos aquáticos",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Melhoria na produtividade agrícola",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Redução na contaminação do meio ambiente",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento na biodiversidade",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é o desequilíbrio ecológico e quais são suas causas e consequências?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Alteração nas relações entre os organismos e o ambiente que pode resultar em extinção de espécies, degradação de ecossistemas e instabilidade nos ciclos biogeoquímicos, causada por fatores como poluição, introdução de espécies invasoras e mudanças climáticas",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Manutenção do equilíbrio natural dos ecossistemas",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Aumento na diversidade de espécies",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Diminuição da pressão seletiva sobre as populações",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a degradação do solo e quais são suas causas e consequências?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Perda de fertilidade, compactação, erosão e salinização do solo devido à agricultura intensiva, urbanização, desmatamento e práticas inadequadas de manejo, resultando em diminuição na produção de alimentos, desertificação e perda de biodiversidade",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Aumento na qualidade do solo",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Diminuição na pressão sobre os recursos hídricos",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aumento na biodiversidade",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "text": "O que é a gestão de resíduos sólidos e qual é sua importância para a preservação do meio ambiente?",
+    "difficulty": "hard",
+    "amount": 5000,
+    "options": [
+      {
+        "number": 1,
+        "text": "Processo de coleta, tratamento, reciclagem e disposição final adequada de resíduos para reduzir os impactos ambientais, prevenir a contaminação do solo e da água, e promover o reaproveitamento de materiais",
+        "is_correct": true
+      },
+      {
+        "number": 2,
+        "text": "Descarte indiscriminado de resíduos em aterros sanitários",
+        "is_correct": false
+      },
+      {
+        "number": 3,
+        "text": "Queima de resíduos a céu aberto",
+        "is_correct": false
+      },
+      {
+        "number": 4,
+        "text": "Aterramento de resíduos em áreas protegidas",
+        "is_correct": false
+      }
     ]
   }
 ]
