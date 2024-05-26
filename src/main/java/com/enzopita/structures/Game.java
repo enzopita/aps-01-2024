@@ -79,7 +79,7 @@ public class Game {
             }
 
             if (remainingUniversityAssists > 0) {
-                System.out.println("Você tem " + remainingEliminations + " ajudas dos universitários disponíveis.");
+                System.out.println("Você tem " + remainingUniversityAssists + " ajudas dos universitários disponíveis.");
                 System.out.println("Digite 'a' para pedir uma ajuda.");
                 System.out.println();
             }
@@ -208,6 +208,8 @@ public class Game {
         }
 
         System.out.println("Total de dinheiro ganho até agora: R$" + moneyEarned);
+
+        removedOptions.clear();
         currentQuestionIndex++;
 
         char choice;
