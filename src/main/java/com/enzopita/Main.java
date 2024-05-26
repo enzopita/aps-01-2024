@@ -8,7 +8,6 @@ import com.google.gson.reflect.TypeToken;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.lang.reflect.Type;
-import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
@@ -28,7 +27,7 @@ public class Main {
     }
 
     public static List<Question> getQuestions() throws Exception {
-        List<Question> questions = new ArrayList<>();
+        List<Question> questions;
 
         InputStream inputStream = Main.class.getResourceAsStream("/questions.json");
 
@@ -37,8 +36,6 @@ public class Main {
         }
 
         try (InputStreamReader reader = new InputStreamReader(inputStream)) {
-            Type questionListType = new TypeToken<List<Question>>() {}.getType();
-
             Gson gson = new Gson();
             Question[] questionsArray = gson.fromJson(reader, Question[].class);
 

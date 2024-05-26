@@ -47,6 +47,10 @@ public class Game {
 
     public void start() {
         while (currentQuestionIndex < questions.size() && !shouldStop) {
+            if (currentQuestionIndex > 0) {
+                System.out.println("-----------------------------------------");
+            }
+
             Question currentQuestion = questions.get(currentQuestionIndex);
 
             // Mostra a questão na tela
@@ -59,7 +63,7 @@ public class Game {
 
             // Avisa das alternativas removidas pela ajuda
             if (!removedOptions.isEmpty()) {
-                System.out.println(removedOptions.size() + " alternativas foram removidas dessa alternativa.");
+                System.out.println(removedOptions.size() + " alternativas foram removidas dessa questão.");
                 System.out.println();
             }
 
@@ -117,28 +121,34 @@ public class Game {
     }
 
     private void handleAnswer(Question question, String answer) throws InterruptedException {
-        if (answer.equals("e")) {
-            if (remainingEliminations == 0) {
-                System.out.println("Você não tem mais eliminações disponíveis nessa partida.");
-                return;
-            }
+        switch (answer) {
+            case "e" -> {
+                if (remainingEliminations == 0) {
+                    System.out.println("Você não tem mais eliminações disponíveis nessa partida.");
+                    return;
+                }
 
-            if (removedOptions.isEmpty()) {
-                eliminateOptions(question);
-            } else {
-                System.out.println("Você já usou uma eliminação nessa rodada e não pode usar novamente!");
-                Thread.sleep(2000);
-                System.out.println();
+                if (removedOptions.isEmpty()) {
+                    eliminateOptions(question);
+                } else {
+                    System.out.println("Você já usou uma eliminação nessa rodada e não pode usar novamente!");
+                    Thread.sleep(2000);
+                    System.out.println();
+                }
             }
-        } else if (answer.equals("a")) {
-            if (remainingUniversityAssists == 0) {
-                System.out.println("Você não tem mais ajuda dos universitários disponíveis nessa partida.");
-                return;
-            }
+            case "a" -> {
+                if (remainingUniversityAssists == 0) {
+                    System.out.println("Você não tem mais ajuda dos universitários disponíveis nessa partida.");
+                    return;
+                }
 
-            universityAssist(question);
-        } else {
-            checkAnswer(question, answer);
+                universityAssist(question);
+            }
+            case "p" -> {
+                System.out.println("Você resolveu parar por aqui e ficar com R$ " + this.moneyEarned);
+                this.shouldStop = true;
+            }
+            default -> checkAnswer(question, answer);
         }
     }
 
@@ -201,7 +211,9 @@ public class Game {
             moneyEarned += question.getAmount();
             System.out.println("Resposta correta! Você ganhou R$" + question.getAmount() + ".");
         } else {
-            System.out.println("Resposta incorreta! O jogo acabou. Você ganhou R$" + moneyEarned + ".");
+            System.out.println("Resposta incorreta! Infelizmente você perdeu tudo!");
+
+            this.moneyEarned = 0;
             this.shouldStop = true;
 
             return;
