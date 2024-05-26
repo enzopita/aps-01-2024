@@ -125,6 +125,7 @@ public class Game {
 
             if (removedOptions.isEmpty()) {
                 eliminateOptions(question);
+                remainingEliminations--;
             } else {
                 System.out.println("Você já usou uma eliminação nessa rodada e não pode usar novamente!");
                 Thread.sleep(2000);
@@ -137,6 +138,7 @@ public class Game {
             }
 
             universityAssist(question);
+            remainingUniversityAssists--;
         } else {
             checkAnswer(question, answer);
         }
@@ -189,8 +191,6 @@ public class Game {
 
         System.out.println("Duas opções incorretas foram eliminadas.");
         System.out.println();
-
-        remainingEliminations--;
     }
 
     private void checkAnswer(Question question, String answer) {
