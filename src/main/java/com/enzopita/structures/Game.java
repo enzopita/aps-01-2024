@@ -118,6 +118,11 @@ public class Game {
 
     private void handleAnswer(Question question, String answer) throws InterruptedException {
         if (answer.equals("e")) {
+            if (remainingEliminations == 0) {
+                System.out.println("Você não tem mais eliminações disponíveis nessa partida.");
+                return;
+            }
+
             if (removedOptions.isEmpty()) {
                 eliminateOptions(question);
                 remainingEliminations--;
@@ -127,6 +132,11 @@ public class Game {
                 System.out.println();
             }
         } else if (answer.equals("a")) {
+            if (remainingUniversityAssists == 0) {
+                System.out.println("Você não tem mais ajuda dos universitários disponíveis nessa partida.");
+                return;
+            }
+
             universityAssist(question);
             remainingUniversityAssists--;
         } else {
